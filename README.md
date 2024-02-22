@@ -1,1 +1,2 @@
-# My coding practice of basic Python codes including function, loop, indexing, libraries and son on.
+# From this course, I have covered basic Python tasks:
+ basic Python codes including function, loop, indexing, libraries and on on.
