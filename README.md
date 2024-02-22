@@ -1,1 +1,1 @@
-# Basic Python codes including function, loop, indexing,  and library.
+# Use of basic Python codes including function, loop, indexing, libraries.
